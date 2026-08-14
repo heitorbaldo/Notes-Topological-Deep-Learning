@@ -7,7 +7,7 @@ In the Jupyter notebooks included in this repository, we implement neural networ
 | Notebook | Task |
 |---|---|
 | [`random_graph_gnn_classification.ipynb`](random_graph_gnn_classification.ipynb) | Classify which random **graph** model generated a graph. |
-| [`hypergraph_hgnn_classification.ipynb`](random_hypergraph_hgnn_classification.ipynb) | Classify which random **hypergraph** model generated a hypergraph. |
+| [`random_hypergraph_hgnn_classification.ipynb`](random_hypergraph_hgnn_classification.ipynb) | Classify which random **hypergraph** model generated a hypergraph. |
 
 ### 1. GNNs for Random Graph Model Classification
 
